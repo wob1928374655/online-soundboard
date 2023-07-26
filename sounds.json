@@ -1,9 +1,11 @@
+
+
 {
   "sounds": [
     {
-      "name": "Fart",
+      "name": "Abola Muderchod.mp3",
       "color": "#339900",
-      "mp3": "sounds/fart.mp3"
+      "mp3": "sounds/Abola Muderchod.mp3"
     },
     {
       "name": "Fart with reverb",
